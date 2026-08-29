@@ -31,7 +31,10 @@ export class FantodPack {
         },
         TheLimb: {
             name: 'The Limb',
-            meaning: '',
+            meaning: 'Objectification dominates your life. ' +
+                'Your kin shoved you on a stage and demanded a stellar performance. ' +
+                'While your clever slight-of-hand and artifice worked temporarily, eventually your forced act will ' +
+                'simply fall over like a wooden leg.',
         },
         TheYellowBird: {
             name: 'The Yellow Bird',
