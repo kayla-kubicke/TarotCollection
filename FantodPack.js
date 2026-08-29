@@ -75,7 +75,11 @@ export class FantodPack {
         },
         TheFeather: {
             name: 'The Feather',
-            meaning: '',
+            meaning: 'Oh my. Your current or future spouse simply keeps you as a trophy. ' +
+                'As an object cherished for your beauty, uniqueness, and lifeless state ' +
+                'if you dare take on any of the properties of a sentient being, you will bear witness how a spoiled, irrational toddler ' +
+                'that has gained the status of an adult behaves when you take their precious feather away. ' +
+                'Keep in mind, even the most cunning of toddlers can be tricked if you evaluate their mind\'s negative space.',
         },
         TheBundle: {
             name: 'The Bundle',
@@ -115,6 +119,3 @@ export class FantodPack {
         },
     }
 }
-
-// <3 <3 <3
-// https://www.youtube.com/watch?v=s_ywiGLAiJw
