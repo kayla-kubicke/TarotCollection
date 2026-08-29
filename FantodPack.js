@@ -20,7 +20,10 @@ export class FantodPack {
         },
         TheChild: {
             name: 'The Child',
-            meaning: '',
+            meaning: 'You were starved as a child of all the necessary ingredients needed for development. ' +
+                'Now the scraps you fed yourself to survive have cultivated crippling mental illness within you. ' +
+                'Hurry up and find someone you feel safe around, who is a bit strange too, and try to release ' +
+                'the smile you hide behind before you die of emotional starvation.',
         },
         TheLimb: {
             name: 'The Limb',
