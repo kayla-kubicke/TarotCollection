@@ -83,7 +83,12 @@ export class FantodPack {
         },
         TheBundle: {
             name: 'The Bundle',
-            meaning: '',
+            meaning: 'Ah, skin. Eruptions may have a scientific explanation, but the mortal mind inadvertently find meaning in blemishes. ' +
+                'While prominent self-help books will say you have acne because you fear being seen or you acquired a very impolite simplex ' +
+                'because you fear sexual contact, no one truly believes that, right? ' +
+                'But, the eczema you get every time you experience deep depression or the strange lump you developed after an ' +
+                'inappropriate touch indicates otherwise.' +
+                'Be mindful of emotionally contagious people and remember that Inuit kissing practices are completely safe.',
         },
         TheSea: {
             name: 'The Sea',
