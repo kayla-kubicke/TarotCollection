@@ -43,7 +43,10 @@ export class FantodPack {
         },
         TheInsects: {
             name: 'The Insects',
-            meaning: '',
+            meaning: 'One can fall in love with another or fall in love with controlling another. ' +
+                'This indicates the latter. ' +
+                'And like a wild mantis couple nearing the completion of the mating dance... ' +
+                'one will be decapitated for the pleasure of the other.',
         },
         ThePlant: {
             name: 'The Plant',
@@ -99,3 +102,6 @@ export class FantodPack {
         },
     }
 }
+
+// <3 <3 <3
+// https://www.youtube.com/watch?v=s_ywiGLAiJw
