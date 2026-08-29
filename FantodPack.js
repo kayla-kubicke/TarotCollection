@@ -83,7 +83,7 @@ export class FantodPack {
         },
         TheBundle: {
             name: 'The Bundle',
-            meaning: 'Ah, skin. Eruptions may have a scientific explanation, but the mortal mind inadvertently find meaning in blemishes. ' +
+            meaning: 'Ah, skin. Eruptions may have a scientific explanation, but the mortal mind inadvertently finds meaning in blemishes. ' +
                 'While prominent self-help books will say you have acne because you fear being seen or you acquired a very impolite simplex ' +
                 'because you fear sexual contact, no one truly believes that, right? ' +
                 'But, the eczema you get every time you experience deep depression or the strange lump you developed after an ' +
@@ -96,7 +96,10 @@ export class FantodPack {
         },
         TheEcorche: {
             name: 'The Ecorche',
-            meaning: '',
+            meaning: 'This single card contradicts the rest of the deck because it is a very positive card. ' +
+                'You have learned to laugh at your own absurdity. ' +
+                'This is the most powerful perspective the human mind can take and now that you\'ve achieved it, ' +
+                'maintain your perspective by being gentle with others. Not everyone can wear a top hat quite like you.',
         },
         TheBottle: {
             name: 'The Bottle',
