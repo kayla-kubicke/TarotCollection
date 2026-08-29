@@ -103,7 +103,14 @@ export class FantodPack {
         },
         TheBottle: {
             name: 'The Bottle',
-            meaning: '',
+            meaning: 'While Freud would look at this phallic bottle and, perhaps, suggest you feel special because ' +
+                'you\'re part of the single sperm that made it to the egg, Jung may view this as a spirit captured and confined to ' +
+                'a tiny space. ' +
+                'Ultimately, it does not matter because philosophy and psychology are forms of mental masturbation ' +
+                'and, frankly, your palms are getting hairy. ' +
+                'Break away from those who heavily rely on intellectual superiority to self-soothe and ' +
+                'make something real for Christ\'s sake. Spend some time as a beginner and remind yourself none of us are ' +
+                'really that special.',
         },
         TheBurningHead: {
             name: 'The Burning Head',
