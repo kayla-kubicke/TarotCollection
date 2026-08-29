@@ -16,7 +16,11 @@ export class FantodPack {
     static FantodCard = {
         TheLadder: {
             name: 'The Ladder',
-            meaning: '',
+            meaning: 'Attempts at cleaning up your emotional attic have left you stranded. ' +
+                'Are you stuck in the attic, trapped in the past? ' +
+                'Or are lying on the hallway floor, so emotionally disconnected that you can\'t even remember what happened? ' +
+                'Either way, better repair that rickety thing and make peace with all the questionable relics you\'ve accidentally acquired ' +
+                'before you have another... \'accident\'.',
         },
         TheChild: {
             name: 'The Child',
