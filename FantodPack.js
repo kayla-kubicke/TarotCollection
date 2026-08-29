@@ -28,7 +28,10 @@ export class FantodPack {
         },
         TheYellowBird: {
             name: 'The Yellow Bird',
-            meaning: '',
+            meaning: 'You are or will be fleeing a miserable, precarious situation without rest. ' +
+                'Your journey will be long, uncertain, and arduous. ' +
+                'Perhaps one day you\'ll find a sturdy branch to rest on but until then... ' +
+                'only look forward.'
         },
         TheStones: {
             name: 'The Stones',
