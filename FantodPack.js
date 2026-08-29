@@ -8,7 +8,7 @@
 // emphasising this is unnecessary.
 
 
-// Enjoy the New Year tradition beloved by dark weirdos.
+// Enjoy the New Year's tradition beloved by dark weirdos.
 // Obviously:
 // Just for fun. I'm not a psychic, just use them for meditative and entertainment purposes.
 
@@ -54,7 +54,10 @@ export class FantodPack {
         },
         TheWaltzingMouse: {
             name: 'The Waltzing Mouse',
-            meaning: '',
+            meaning: 'You are or will be an uninvited and unwanted guest making a fool of yourself. ' +
+                'But do you even have enough self-awareness to know? ' +
+                'Unable to tell you are quite small and powerless, your tail will be chopped of with a carving knife and your ' +
+                'lack of metacognition will be publicly jeered.'
         },
         TheUrn: {
             name: 'The Urn',
