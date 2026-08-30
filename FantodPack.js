@@ -49,7 +49,14 @@ export class FantodPack {
         },
         TheEffigy: {
             name: 'The Effigy',
-            meaning: '',
+            meaning: 'Once sincerely attached to another the bond can rarely be broken, only ' +
+                'transformed into another version of the given attachment. Facing the loss of a true platonic or romantic life partner ' +
+                'is devastating and the energy you once willingly poured into that person must go into a special place or else ' +
+                'you are guaranteed to go completely mad. ' +
+                'Craft a project that allows you communicate with them on the astral plane and, if so inclined, burn it after completion. ' +
+                'Whether dead or alive, they are likely still tuned into the wavelength you both unconsciously agreed to use. ' + '\n' +
+                '...And, consider yourself lucky. Because in truth, most people never get to experience an authentic bond in the first place. ' +
+                'Most walk through this life with a very limited understanding of connection and what passes for love to most is pathetic.',
         },
         TheInsects: {
             name: 'The Insects',
@@ -87,7 +94,7 @@ export class FantodPack {
                 'While prominent self-help books will say you have acne because you fear being seen or you acquired a very impolite simplex ' +
                 'because you fear sexual contact, no one truly believes that, right? ' +
                 'But, the eczema you get every time you experience deep depression or the strange lump you developed after an ' +
-                'inappropriate touch indicates otherwise.' +
+                'inappropriate touch indicates otherwise. ' +
                 'Be mindful of emotionally contagious people and remember that Inuit kissing practices are completely safe.',
         },
         TheSea: {
