@@ -93,7 +93,7 @@ export class FantodPack {
             meaning: 'Ah, skin. Eruptions may have a scientific explanation, but the mortal mind inadvertently finds meaning in blemishes. ' +
                 'While prominent self-help books will say you have acne because you fear being seen or you acquired a very impolite simplex ' +
                 'because you fear sexual contact, no one truly believes that, right? ' +
-                'But, the eczema you get every time you experience deep depression or the strange lump you developed after an ' +
+                'Yet, the eczema you get every time you experience deep depression or the strange lump you developed after an ' +
                 'inappropriate touch indicates otherwise. ' +
                 'Be mindful of emotionally contagious people and remember that Inuit kissing practices are completely safe.',
         },
@@ -133,7 +133,11 @@ export class FantodPack {
         },
         TheTunnel: {
             name: 'The Tunnel',
-            meaning: '',
+            meaning: 'The primal visual of an obsidian tunnel as the only path forward can make even the strongest-willed among us pause. ' +
+                'But, if you enter, your eyes will adjust and your soul will learn to handle the inky darkness that permeates this world. ' +
+                'After emerging, the level of enlightenment will be extremely alienating as most will never experience the pure black you ' +
+                'had to endure to survive. Slowly accumulate yourself to the lightness in this world and connect with those who know but ' +
+                'did not let the firsthand, rarely-obtained knowledge overtake their soul.',
         },
         TheBlackDoll: {
             name: 'The Black Doll',
