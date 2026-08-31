@@ -129,7 +129,13 @@ export class FantodPack {
         },
         TheAncestor: {
             name: 'The Ancestor',
-            meaning: '',
+            // Refine.
+            meaning: 'The faceless paternal figure, overbearing and heavy in a winter coat, represents the brutality hidden within your ' +
+                'genetics. Referred to as epigenetics by ivory tower academics, the polite scientific term does not convey the famine, alcoholism, and ' +
+                'abuse knowledge passed down from your ancestors or gained by your own experiences. ' +
+                'Why did I have this kink, this fear, this pica? ' +
+                'What\'s more unnerving? The fact that an infinite number of unreproducible variables made you, you? Or, ' +
+                'that humans are so uninspired most believe you can create an identical copy of a living being?',
         },
         TheTunnel: {
             name: 'The Tunnel',
