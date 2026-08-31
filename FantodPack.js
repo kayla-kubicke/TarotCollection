@@ -125,7 +125,20 @@ export class FantodPack {
         },
         TheBlueDog: {
             name: 'The Blue Dog',
-            meaning: '',
+            meaning: 'As a lone wolf, you\'ve being on the receiving end of the same list of questions and accusations since teenhood: ' + '\n' +
+                '\t"Why didn\'t you answer my call or texts?"' + '\n' +
+                '"Where were you?"' + '\n' +
+                '\t"I can\'t read you! Do you even care about me?"' + '\n' +
+                'But they do not know what it is like to genuinely be a freak of nature. We freaks need... a bit of space. ' +
+                'We feel controlled the moment someone stands too long on our patchwork of territory and we must push you out lest ' +
+                'we spend another moment experiencing the pain of being told our existence is wrong. ' +
+                'Here is the tricky part: life sort of requires relationships and you\'ve been coping with this by building ' +
+                'hollow \'connections\'. ' +
+                'While functional, it leaves a large void in your heart that amplifies the alienation you already experience. ' +
+                'Perhaps you can find a few other lone wolves to howl with occasionally who confidently know that love and care doesn\'t ' +
+                'necessarily require constant contact or reassurance the relationship is legitimate. ' + '\n' +
+                'After all, the freedom to flee and safely come back to a shared territory, confidently knowing it was not ' +
+                'coated with resentful beartraps and vindictive tripwire while you were gone, is utterly sacred.',
         },
         TheAncestor: {
             name: 'The Ancestor',
@@ -133,7 +146,7 @@ export class FantodPack {
             meaning: 'The faceless paternal figure, overbearing and heavy in a winter coat, represents the brutality hidden within your ' +
                 'genetics. Referred to as epigenetics by ivory tower academics, the polite scientific term does not convey the famine, alcoholism, and ' +
                 'abuse knowledge passed down from your ancestors or gained by your own experiences. ' +
-                'Why did I have this kink, this fear, this pica? ' +
+                'Why do I have this kink, this fear, this pica? ' +
                 'What\'s more unnerving? The fact that an infinite number of unreproducible variables made you, you? Or, ' +
                 'that humans are so uninspired most believe you can create an identical copy of a living being?',
         },
