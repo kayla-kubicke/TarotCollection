@@ -120,8 +120,12 @@ export class FantodPack {
                 'really that special.',
         },
         TheBurningHead: {
+            // Just fun witchy stuff: https://hauswitchstore.com/
             name: 'The Burning Head',
-            meaning: '',
+            meaning: 'You have gained a ghost. Your haunting may be more metaphorical in nature, but the ghoul nonetheless ' +
+                'floats around you and manipulates your environment in ways that sicken and terrify you. ' +
+                'Is the solution to ignore or to address? To worship or expel? ' +
+                'I guess it depends on what nourishment the phantom needs to move on; better figure it out before you lose your mind.',
         },
         TheBlueDog: {
             name: 'The Blue Dog',
