@@ -67,7 +67,13 @@ export class FantodPack {
         },
         ThePlant: {
             name: 'The Plant',
-            meaning: '',
+            meaning: 'The burden of raising another is fraught with questions of balance. ' +
+                'Perhaps you were the eldest and your parents left you with the forced obligation of caring for your siblings. ' +
+                'Maybe you have decided to create life and now you\'re overthinking about how to divide provisions. '  +
+                'Or you\'re managing a group of young and determining how to provide guidance. ' +
+                'Regardless, at some point, you must accept that no one will notice the sacrifices you made for them and, furthermore, ' +
+                'the risk of resentment may poison the relationship. ' + '\n' +
+                'Will you still do the right thing?',
         },
         TheWaltzingMouse: {
             name: 'The Waltzing Mouse',
@@ -120,7 +126,6 @@ export class FantodPack {
                 'really that special.',
         },
         TheBurningHead: {
-            // Just fun witchy stuff: https://hauswitchstore.com/
             name: 'The Burning Head',
             meaning: 'You have gained a ghost. Your haunting may be more metaphorical in nature, but the ghoul nonetheless ' +
                 'floats around you and manipulates your environment in ways that sicken and terrify you. ' +
