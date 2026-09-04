@@ -43,10 +43,17 @@ export class FantodPack {
                 'Perhaps one day you\'ll find a sturdy branch to rest on but until then... ' +
                 'only look forward.'
         },
+        // https://www.youtube.com/watch?v=42BBdzzgPNM
         TheStones: {
             name: 'The Stones',
-            meaning: '',
+            meaning: 'The mystery of pillars positioned strategically on hallowed grounds as the softly blowing wind causes ' +
+                'whispers of faint, unintelligible words can invoke a plethora of feelings. ' +
+                'Some things are meant to be pondered until the queasiness overtakes you and then it\'s time to numb the ' +
+                'pain of existence by, like, making fun of a B movie with a close friend, or something.' + '\n' +
+                'Just accept it\'s meaningless and infinity has infinite definitions once and a while. ',
         },
+        // Also, speaking of numbing, I've been playing Pacific Drive and I have no idea what I'm doing; in a good way, I guess?
+        // I keep refusing to look anything up except for the in-game index thing. (https://www.youtube.com/watch?v=nvPPggQ-pHs)
         TheEffigy: {
             name: 'The Effigy',
             meaning: 'Once sincerely attached to another the bond can rarely be broken, only ' +
