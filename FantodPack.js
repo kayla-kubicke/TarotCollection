@@ -43,7 +43,6 @@ export class FantodPack {
                 'Perhaps one day you\'ll find a sturdy branch to rest on but until then... ' +
                 'only look forward.'
         },
-        // https://www.youtube.com/watch?v=42BBdzzgPNM
         TheStones: {
             name: 'The Stones',
             meaning: 'The mystery of pillars positioned strategically on hallowed grounds as the softly blowing wind causes ' +
@@ -52,8 +51,6 @@ export class FantodPack {
                 'pain of existence by, like, making fun of a B movie with a close friend, or something.' + '\n' +
                 'Just accept it\'s meaningless and infinity has infinite definitions once and a while. ',
         },
-        // Also, speaking of numbing, I've been playing Pacific Drive and I have no idea what I'm doing; in a good way, I guess?
-        // I keep refusing to look anything up except for the in-game index thing. (https://www.youtube.com/watch?v=nvPPggQ-pHs)
         TheEffigy: {
             name: 'The Effigy',
             meaning: 'Once sincerely attached to another the bond can rarely be broken, only ' +
@@ -110,9 +107,25 @@ export class FantodPack {
                 'inappropriate touch indicates otherwise. ' +
                 'Be mindful of emotionally contagious people and remember that Inuit kissing practices are completely safe.',
         },
+        // The hood of my car keeps opening when I throw it in reverse and my battery slowly drains, no obvious reason.
+        // ???
+        // Tried some flavor of 'hood open' when 'car reverses', but I was wrong and lost one of my quirk guesses. :(
+        // BUT, sometimes, ONLY sometimes, when I reverse the hood does not open so it must be a slightly different behavior?
+        // Tried testing if it was how the wheels were turned, nope.
+        // I stopped on a hill without putting it in park, slid down the hill, the hood did not open. Tried all wheel positions.
+        // It's kinda related to speed, maybe? If the reverse is really gentle it doesn't immediately open.
+        // The battery... I have no idea. Drains while just sitting in garage.
+
+        // Also, wtf can't I find a steel hood blueprint???
+
+        // Also, also, wouldn't it be kinda awesome if the game had a manual option? Use to drive an old manual '92 mazda
+        // truck and '94 saturn ls2 in Alaska on ice half the year. Would be nice because the car feels authentically heavy
+        // with ps5 controller vibrations so to the shifter vibes... ah. Yeah, yeah, yeah, technically the real-life version of
+        // the car didn't have a manual version... don't care.
         TheSea: {
             name: 'The Sea',
-            meaning: '',
+            meaning: 'Are you looking over the bow of your ship, lost and low on resources, and seeing... only water? ' +
+                'Hm... good luck with that.',
         },
         TheEcorche: {
             name: 'The Ecorche',
