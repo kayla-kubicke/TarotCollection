@@ -107,21 +107,6 @@ export class FantodPack {
                 'inappropriate touch indicates otherwise. ' +
                 'Be mindful of emotionally contagious people and remember that Inuit kissing practices are completely safe.',
         },
-        // The hood of my car keeps opening when I throw it in reverse and my battery slowly drains, no obvious reason.
-        // ???
-        // Tried some flavor of 'hood open' when 'car reverses', but I was wrong and lost one of my quirk guesses. :(
-        // BUT, sometimes, ONLY sometimes, when I reverse the hood does not open so it must be a slightly different behavior?
-        // Tried testing if it was how the wheels were turned, nope.
-        // I stopped on a hill without putting it in park, slid down the hill, the hood did not open. Tried all wheel positions.
-        // It's kinda related to speed, maybe? If the reverse is really gentle it doesn't immediately open.
-        // The battery... I have no idea. Drains while just sitting in garage.
-
-        // Also, wtf can't I find a steel hood blueprint???
-
-        // Also, also, wouldn't it be kinda awesome if the game had a manual option? Use to drive an old manual '92 mazda
-        // truck and '94 saturn ls2 in Alaska on ice half the year. Would be nice because the car feels authentically heavy
-        // with ps5 controller vibrations so to the shifter vibes... ah. Yeah, yeah, yeah, technically the real-life version of
-        // the car didn't have a manual version... don't care.
         TheSea: {
             name: 'The Sea',
             meaning: 'Are you looking over the bow of your ship, lost and low on resources, and seeing... only water? ' +
@@ -187,9 +172,13 @@ export class FantodPack {
                 'had to endure to survive. Slowly accumulate yourself to the lightness in this world and connect with those who know but ' +
                 'did not let the firsthand, rarely-obtained knowledge overtake their soul.',
         },
+        // Figured it out; I entered the quirk backwards. I fixed the hood opening... kinda seems like the battery is
+        // better too? But, I didn't play too much after fixing it.
         TheBlackDoll: {
             name: 'The Black Doll',
-            meaning: '',
+            meaning: 'Time to move on. Maybe someone broke your heart or a crime was commited against you. Whatever it was, ' +
+                'seal it up and wall off the damage. Some people are just doomed to self-destruct, but you can make different choices. ' +
+                'Only the strongest ultimately claw themselves out of the trap, the weak simply fall into another trap.',
         },
     }
 }
