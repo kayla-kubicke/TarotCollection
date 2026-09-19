@@ -86,9 +86,15 @@ export class FantodPack {
                 'Unable to tell you are quite small and powerless, your tail will be chopped of with a carving knife and your ' +
                 'lack of metacognition will be publicly jeered.'
         },
+        // Just got to the middle zone; fixed some quirks, nothing major. Does the quirk where the car randomly (?)
+        // 'greets' you with the little pixelized screen as you enter cause the battery to drain slowly? I haven't
+        // quite figured that out yet. It's kinda cute. Also, my car is so heavy since I've added armored components...
+        // https://www.youtube.com/watch?v=hF7vGlfTg6w
         TheUrn: {
             name: 'The Urn',
-            meaning: '',
+            meaning: 'While some may shame you for your honest opinion, apathy or even relief at the ending of a relationship ' +
+                'is normal. Only you and the departed know occurred behind closed doors. Burning an abusive person to dust ' +
+                'allows you to dispose of the garbage that they were. And, like most refuse, you won\'t have to think about it again.',
         },
         TheFeather: {
             name: 'The Feather',
@@ -172,8 +178,6 @@ export class FantodPack {
                 'had to endure to survive. Slowly accumulate yourself to the lightness in this world and connect with those who know but ' +
                 'did not let the firsthand, rarely-obtained knowledge overtake their soul.',
         },
-        // Figured it out; I entered the quirk backwards. I fixed the hood opening... kinda seems like the battery is
-        // better too? But, I didn't play too much after fixing it.
         TheBlackDoll: {
             name: 'The Black Doll',
             meaning: 'Time to move on. Maybe someone broke your heart or a crime was commited against you. Whatever it was, ' +
