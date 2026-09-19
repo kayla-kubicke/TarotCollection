@@ -93,7 +93,7 @@ export class FantodPack {
         TheUrn: {
             name: 'The Urn',
             meaning: 'While some may shame you for your honest opinion, apathy or even relief at the ending of a relationship ' +
-                'is normal. Only you and the departed know occurred behind closed doors. Burning an abusive person to dust ' +
+                'is normal. Only you and the departed know what occurred behind closed doors. Burning an abusive person to dust ' +
                 'allows you to dispose of the garbage that they were. And, like most refuse, you won\'t have to think about it again.',
         },
         TheFeather: {
